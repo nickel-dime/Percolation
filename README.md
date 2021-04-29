@@ -9,5 +9,6 @@ This program estimates the value of the percolation threshold via Monte Carlo si
 
 Below is a demo of the program, with the blue squares meaning there is a path to the top. This percolation program draws a nice animation. 
 
+https://user-images.githubusercontent.com/55257208/116610172-3985d400-a903-11eb-85aa-6bb3ddb2f744.mp4
 
 
